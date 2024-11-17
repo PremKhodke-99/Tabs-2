@@ -32,6 +32,9 @@ export default {
 
 ul {
     list-style: disc;
-    margin-left: 20px;
+    margin-left: 20px; 
+    display: flex;
+    list-style: none;
+    gap: 10px;
 }
 </style>
